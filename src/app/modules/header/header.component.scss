@@ -1,0 +1,16 @@
+::ng-deep mat-toolbar{
+    background-color: #1A4C39;
+    color: antiquewhite;
+    font-family: 'Tangerine';
+    font-size: 30px;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+}
+
+.account-position{
+ //padding: 0;
+ cursor: pointer;
+ right: 40px;
+ position: absolute;
+}

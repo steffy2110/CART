@@ -1,0 +1,22 @@
+.cart-nav-active {
+    border-bottom: 5px solid #ACDF87 !important;
+    opacity: .9 !important;
+    font-weight: 300;
+  }
+  .mat-tab-link:hover{ 
+    border-bottom: 5px solid #ACDF87;
+    text-decoration:none !important;
+    opacity: .9 !important;
+    transition: .5s cubic-bezier(.35,0,.25,1);
+  }
+  .mat-tab-link{
+    background-color:#1E5631;
+    opacity: .9 !important;
+    width: 100%;
+    color: antiquewhite;
+  }
+ nav{
+  min-height: 20px;
+  width: 100%;
+  padding: 64px 0 0 0 ; 
+ }
